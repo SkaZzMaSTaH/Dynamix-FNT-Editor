@@ -1,0 +1,9 @@
+D:\Dementia\Software\Dynamix FNT Editor\Dynamix FNT Editor\bin\Debug\Dynamix FNT Editor.exe.config
+D:\Dementia\Software\Dynamix FNT Editor\Dynamix FNT Editor\bin\Debug\Dynamix FNT Editor.exe
+D:\Dementia\Software\Dynamix FNT Editor\Dynamix FNT Editor\bin\Debug\Dynamix FNT Editor.pdb
+D:\Dementia\Software\Dynamix FNT Editor\Dynamix FNT Editor\obj\Debug\Dynamix FNT Editor.csprojResolveAssemblyReference.cache
+D:\Dementia\Software\Dynamix FNT Editor\Dynamix FNT Editor\obj\Debug\Dynamix_FNT_Editor.Main.resources
+D:\Dementia\Software\Dynamix FNT Editor\Dynamix FNT Editor\obj\Debug\Dynamix_FNT_Editor.Properties.Resources.resources
+D:\Dementia\Software\Dynamix FNT Editor\Dynamix FNT Editor\obj\Debug\Dynamix FNT Editor.csproj.GenerateResource.Cache
+D:\Dementia\Software\Dynamix FNT Editor\Dynamix FNT Editor\obj\Debug\Dynamix FNT Editor.exe
+D:\Dementia\Software\Dynamix FNT Editor\Dynamix FNT Editor\obj\Debug\Dynamix FNT Editor.pdb
